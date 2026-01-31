@@ -1,0 +1,11 @@
+# Thư viện chính để chạy YOLOv8 và YOLOv10
+ultralytics
+
+# Thư viện tính toán và xử lý ảnh
+numpy
+opencv-python
+pillow
+
+# Thư viện để export model sang ONNX/TensorRT (nếu cần)
+onnx
+onnxslim
