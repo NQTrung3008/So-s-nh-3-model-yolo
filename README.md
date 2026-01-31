@@ -40,7 +40,11 @@ Thư viện: streamlit, pandas, plotly, ultralytics.
 📂 5. Cấu trúc dự án
 /
 ├── dash_board_3_model.py  # File chạy Dashboard Local
+
 ├── requirements_model.txt # Thư viện cho YOLO
+
 ├── requirements_dashboard.txt # Thư viện cho Dashboard
+
 ├── weights/               # Chứa các file .pt của YOLOv10, YOLOv8-Seg
+
 └── demo/                  # Video kết quả thực tế từ 3 model
