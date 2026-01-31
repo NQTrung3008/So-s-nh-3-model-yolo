@@ -1,9 +1,0 @@
-# Thư viện giao diện Web
-streamlit
-
-# Thư viện xử lý dữ liệu và biểu đồ
-pandas
-plotly
-
-# Thư viện hỗ trợ hệ thống
-watchdog
