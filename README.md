@@ -8,13 +8,13 @@ Quy mô: Subset gồm 600 ảnh chất lượng cao đã được gán nhãn.
 
 📈 2. Kết quả huấn luyện & So sánhNhờ áp dụng Transfer Learning, mô hình đạt được độ chính xác cực cao dù huấn luyện trên tập dữ liệu nhỏ:
 
-Mô hình|Nhiệm vụ|mAP50|Tốc độ (ms)|GFLOPs
+Mô hình  |Nhiệm vụ    |mAP50|Tốc độ (ms)|GFLOPs
 
-YOLOv10|Detection|0.989|47.0|8.1
+YOLOv10  |Detection    |0.989|47.0      |8.1
 
-YOLOv8-Seg|Segmentation|0.990|65.5|12.0
+YOLOv8-Seg|Segmentation|0.990|65.5      |12.0
 
-YOLO-TS|Hybrid|0.950|52.5|8.1
+YOLO-TS  |Hybrid       |0.950|52.5      |8.1
 
 3.Nhận định chuyên môn:
 
